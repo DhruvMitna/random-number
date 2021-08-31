@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\obj\Debug\net5.0\randoms.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\obj\Debug\net5.0\randoms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\obj\Debug\net5.0\randoms.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\obj\Debug\net5.0\randoms.AssemblyInfo.cs
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\obj\Debug\net5.0\randoms.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\bin\Debug\net5.0\randoms.exe
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\bin\Debug\net5.0\randoms.deps.json
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\bin\Debug\net5.0\randoms.runtimeconfig.json
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\bin\Debug\net5.0\randoms.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\bin\Debug\net5.0\randoms.dll
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\bin\Debug\net5.0\ref\randoms.dll
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\bin\Debug\net5.0\randoms.pdb
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\obj\Debug\net5.0\randoms.dll
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\obj\Debug\net5.0\ref\randoms.dll
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\obj\Debug\net5.0\randoms.pdb
+C:\Users\Owner\Desktop\E\Workspace\randoms\randNum\obj\Debug\net5.0\randoms.genruntimeconfig.cache
